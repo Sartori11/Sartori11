@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Pedro Sartori
 
-- 🔭 Em busca da primeira oportunidade de emprego ...
-- 🌱 I’m currently studying
+- 🔭 Em busca da primeira oportunidade de emprego 
 
 <div align="center">
   <a href="https://github.com/Sartori11">
