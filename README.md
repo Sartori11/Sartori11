@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Pedro Sartori
 
-- 🔭 Em busca da primeira oportunidade de emprego 
+🔭 I’m currently studying System Analysis and Development at Senac
+🌱 Currently focused on learning and practicing  Javascript / Java / Python / SQL
 
 <div align="center">
   <a href="https://github.com/Sartori11">
