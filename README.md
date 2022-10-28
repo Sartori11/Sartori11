@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Sartori
 
 - 🔭 I’m currently studying System Analysis and Development at Senac RJ
-- 🌱 Currently focused on learning and practicing  Javascript / Java / Python / SQL /
+- 🌱 Currently focused on learning and practicing   Python / SQL /  Python on Jupyter Notebook
 
 <div align="center">
   <a href="https://github.com/Sartori11">
